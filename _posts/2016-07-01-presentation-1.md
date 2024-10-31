@@ -4,11 +4,8 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Presentación
-   slide-data: Instituto tecnológico de Cancún
-   Materia: Fundamentos de telecomunicaciones
-   Alumna: Texna Reyes Ivania Gpe.
-   Tema: Capítulo 10 Detención y correción de errores
+ - title: Capitulo 10 Detención y corrección de errores
+   slide-data: Materia: Fundamentos de telecomunicaciones Alumna: Texna Reyes Ivania Gpe.
      
  - title: Slide 2
    slide-data: This is second slide
