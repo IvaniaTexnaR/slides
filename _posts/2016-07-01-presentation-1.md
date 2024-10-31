@@ -1,11 +1,15 @@
 ---
-title: Presentation 1
+title: Detención y corrección de errores
 layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Presentación
+   slide-data:
+   Instituto tecnológico de Cancún
+   Materia: Fundamentos de telecomunicaciones
+   Alumna: Texna Reyes Ivania Gpe.
+   Tema: Capítulo 10 Detención y correción de errores
      
  - title: Slide 2
    slide-data: This is second slide
