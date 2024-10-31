@@ -18,7 +18,7 @@ slides:
  - title: Slide 3
    slide-data: This is third slide
 
-  - title: Slide 3
+ - title: Slide 3
    slide-data: This is third slide
 
  - title: Slide 3
