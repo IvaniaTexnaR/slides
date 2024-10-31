@@ -9,8 +9,9 @@ slides:
    slide-data: Fundamentos de telecomunicaciones
    slide-data: Alumna Texna Reyes Ivania Gpe.
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Introducción
+   slide-data: Data can be corrupted during transmission.
+Some applications require that errors be detected and corrected
 
  - title: Slide 3
    slide-data: This is third slide
