@@ -10,8 +10,7 @@ slides:
    slide-data: Alumna Texna Reyes Ivania Gpe.
      
  - title: Introducción
-   slide-data: Data can be corrupted during transmission.
-Some applications require that errors be detected and corrected
+   slide-data: Los datos pueden corromperse durante la transmisión. Algunas aplicaciones requieren que se detecten y corrijan los errores.
 
  - title: Slide 3
    slide-data: This is third slide
