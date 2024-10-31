@@ -12,8 +12,18 @@ slides:
  - title: Introducción
    slide-data: Los datos pueden corromperse durante la transmisión. Algunas aplicaciones requieren que se detecten y corrijan los errores.
 
+ - title: Tipos de errores
+   slide-data: Error de un solo bit, Error de ráfaga
+
  - title: Slide 3
    slide-data: This is third slide
+
+   - title: Slide 3
+   slide-data: This is third slide
+
+ - title: Slide 3
+   slide-data: This is third slide
+  
   
 ---
 
