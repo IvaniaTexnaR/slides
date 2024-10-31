@@ -14,7 +14,7 @@ slides:
 
  - title: Tipos de errores
    slide-data: Error de un solo bit, Error de ráfaga
-
+   
  - title: Slide 3
    slide-data: This is third slide
 
