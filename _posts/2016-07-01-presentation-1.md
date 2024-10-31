@@ -13,7 +13,7 @@ slides:
    slide-data: Los datos pueden corromperse durante la transmisión. Algunas aplicaciones requieren que se detecten y corrijan los errores.
 
  - title: Tipos de errores
-   slide-data: Error de un solo bit, Error de ráfaga
+   slide-data: Error de un solo bit significa que solo 1 bit de una unidad de datos determinada (como un byte, un carácter o un paquete) cambia de 1 a 0 o de 0 a 1., Error de ráfaga significa que 2 o más bits en la unidad de datos han cambiado de 1 a 0 o de 0 a 1.
  
  - title: Slide 3
    slide-data: This is third slide
