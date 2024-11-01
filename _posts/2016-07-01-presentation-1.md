@@ -25,7 +25,7 @@ slides:
  - title: Codificación
    slide-data: La redundancia se logra mediante varios esquemas de codificación. El remitente agrega bits redundantes mediante un proceso que crea una relación entre los bits redundantes y los bits de datos reales. El receptor comprueba estas relaciones para detectar o corregir errores.
 
- - title: 10.2 Codificación de bloques
+ - title: Codificación de bloques
    slide-data: En la codificación de bloques, dividimos nuestro mensaje en bloques de k bits, llamados palabras de datos. Agregamos r bits redundantes para que la longitud total sea n = k + r. Estos bloques resultantes se denominan palabras de código. El proceso de codificación es uno a uno; la misma palabra de datos es siempre codificada de la misma manera.
 
  - title: Distancia de Hamming
@@ -34,7 +34,7 @@ slides:
  - title: Distancia mínima de Hamming
    slide-data: La distancia mínima de Hamming es la distancia de Hamming más pequeña entre todos los pares posibles de palabras. Se utiliza para diseñar códigos de detección y corrección de errores.
 
- - title: 10.3 Códigos de bloque lineales
+ - title: Códigos de bloque lineales
    slide-data: Los códigos de bloques lineales son códigos en los que el XOR de dos palabras de código válidas crea otra palabra de código válida. Para definirlos formalmente se requiere álgebra abstracta.
 
  - title: Códigos cíclicos
