@@ -19,7 +19,7 @@ slides:
  - title: Detección vs corrección
    slide-data: La corrección de errores es más difícil que la detección. En la detección de errores, solo buscamos si se ha producido algún error. La respuesta es un simple sí o no. En la corrección de errores, necesitamos saber la cantidad exacta de bits que están dañados y su ubicación en el mensaje. El número de errores y el tamaño del mensaje son factores importantes.
  
- - title: Corrección de errores directos vs retransmisión
+ - title: Corrección de errores vs retransmisión
    slide-data: La corrección de errores hacia adelante es el proceso en el que el receptor intenta adivinar el mensaje utilizando bits redundantes. La corrección por retransmisión es una técnica en la que el receptor detecta un error y solicita al remitente que reenvíe el mensaje.
    
  - title: Codificación
