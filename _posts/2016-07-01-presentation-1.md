@@ -43,18 +43,6 @@ slides:
  - title: Suma de verificación
    slide-data: La suma de comprobación se utiliza en Internet mediante varios protocolos, aunque no en la capa de enlace de datos. Se basa en el concepto de redundancia.
 
- - title: 
-   slide-data: 
-
- - title: 
-   slide-data: 
-
- - title: 
-   slide-data: 
-
- - title: 
-   slide-data: 
-
 ---
 
 {% for slide in page.slides %}
