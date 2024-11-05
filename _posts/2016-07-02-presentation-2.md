@@ -33,31 +33,31 @@ slides:
    slide-data: This is seventh slide
    background: '#e67e22'
 
-    - title: Capítulo 7 Medios de transmisión
+    - title:
    slide-data: 
    background: "#e74c3c"
      
- - title: Definición
+ - title:
    slide-data: This is second slide
    background: '#f1c40f'
    
- - title: Slide 3
+ - title: 
    slide-data: This is third slide
    background: '#9b59b6'
    
- - title: Slide 4
+ - title: 
    slide-data: This is fourth slide
    background: '#3498db'
    
- - title: Slide 5
+ - title:
    slide-data: This is fifth slide
    background: '#2ecc71'
    
- - title: Slide 6
+ - title: 
    slide-data: This is sixth slide
    background: '#1abc9c'
 
- - title: Slide 7
+ - title: 
    slide-data: This is seventh slide
    background: '#e67e22'
 ---
