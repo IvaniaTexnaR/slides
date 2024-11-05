@@ -24,13 +24,25 @@ slides:
    slide-data: Un par trenzado consta de dos conductores (normalmente de cobre), cada uno con su propio aislamiento plástico, trenzados entre sí. Uno de los cables se utiliza para llevar señales al receptor y el otro se utiliza solo como referencia de tierra. Además de la señal enviada por el transmisor en uno de los cables, la interferencia y la diafonía pueden afectar a ambos cables y crear señales no deseadas.
    background: '#2ecc71'
    
- - title: Slide 6
-   slide-data: This is sixth slide
+ - title: Cable Coaxial
+   slide-data: El cable coaxial transporta señales de rangos de frecuencia más altos que los del cable de par trenzado. El cable coaxial tiene un conductor central de cable sólido o trenzado encerrado en una funda aislante, que, a su vez, está revestida de un conductor exterior de lámina metálica, trenza o una combinación de las dos. La envoltura metálica exterior sirve tanto como escudo contra el ruido como como segundo conductor. Este conductor exterior también está encerrado en una funda aislante y todo el cable está protegido por una cubierta de plástico.
    background: '#1abc9c'
 
  - title: Slide 7
    slide-data: This is seventh slide
    background: '#e67e22'
+ 
+ - title: Slide 8
+   slide-data: This is seventh slide
+   background: "#e74c3c"
+
+ - title: Slide 9
+   slide-data: This is seventh slide
+   background: '#f1c40f'
+ 
+ - title: Slide 10
+   slide-data: This is seventh slide
+   background: '#9b59b6'
 ---
 
 {% for slide in page.slides %}
