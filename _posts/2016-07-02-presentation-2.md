@@ -13,7 +13,7 @@ slides:
    background: '#f1c40f'
    
  - title: Categorías de medios de transmisión
-   slide-data: En telecomunicaciones, los medios de transmisión se pueden dividir en dos grandes categorías: guiados y no guiados. A continuación se explicará más acerca de cada categoría.
+   slide-data: En telecomunicaciones, los medios de transmisión se pueden dividir en dos grandes categorías guiados y no guiados. A continuación se explicará más acerca de cada categoría.
    background: '#9b59b6'
    
  - title: Slide 4
