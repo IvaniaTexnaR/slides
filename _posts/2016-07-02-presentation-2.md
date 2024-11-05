@@ -37,9 +37,7 @@ slides:
    background: "#e74c3c"
 
  - title: Propagación
-   slide-data: Propagación por tierra Las señales de radio viajan a través de una posición más baja y cercana a la tierra.
-   slide-data: Propagación por aire. Las señales son de una frecuencia más alta y estas viajan por la ionosfera y recorren más distancia sin requerir tanta potencia de salida
-   slide-data:Línea de mira. Son señales de alta frecuencia que se transmiten de antena a antena
+   slide-data: Propagación por tierra Las señales de radio viajan a través de una posición más baja y cercana a la tierra. Propagación por aire. Las señales son de una frecuencia más alta y estas viajan por la ionosfera y recorren más distancia sin requerir tanta potencia de salida. Línea de mira. Son señales de alta frecuencia que se transmiten de antena a antena
    background: '#f1c40f'
  
  - title: Ondas de radio
