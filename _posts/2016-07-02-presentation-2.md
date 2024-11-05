@@ -16,12 +16,12 @@ slides:
    slide-data: En telecomunicaciones, los medios de transmisión se pueden dividir en dos grandes categorías guiados y no guiados. A continuación se explicará más acerca de cada categoría.
    background: '#9b59b6'
    
- - title: Slide 4
-   slide-data: This is fourth slide
+ - title: Guiados
+   slide-data: Los medios guiados, que son aquellos que proporcionan un conducto de un dispositivo a otro. Una señal puede viajar a través de estos medios siendo limitado por los limites físicos de los cables. Par trenzado, Cable Coaxial y Fibra óptica
    background: '#3498db'
    
- - title: Slide 5
-   slide-data: This is fifth slide
+ - title: Par trenzado
+   slide-data: Un par trenzado consta de dos conductores (normalmente de cobre), cada uno con su propio aislamiento plástico, trenzados entre sí. Uno de los cables se utiliza para llevar señales al receptor y el otro se utiliza solo como referencia de tierra. Además de la señal enviada por el transmisor en uno de los cables, la interferencia y la diafonía pueden afectar a ambos cables y crear señales no deseadas.
    background: '#2ecc71'
    
  - title: Slide 6
