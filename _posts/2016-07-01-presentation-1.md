@@ -1,5 +1,5 @@
 ---
-title: Detención y corrección de errores
+title: Capitulo 10
 layout: post
 permalink: /presentation-1/
 background: '#0a5'
