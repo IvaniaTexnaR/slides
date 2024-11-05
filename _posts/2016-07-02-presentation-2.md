@@ -1,5 +1,5 @@
 ---
-title: Capitulo 7
+title: Capitulo 7 
 layout: post
 permalink: /presentation-2/
 
@@ -12,8 +12,8 @@ slides:
    slide-data: Un medio de transmisión puede definirse en términos generales como cualquier cosa que pueda llevar información desde una fuente a un destino. El medio de transmisión suele ser el espacio libre, un cable metálico o un cable de fibra óptica. La información suele ser una señal que es el resultado de la conversión de datos de otro formato.
    background: '#f1c40f'
    
- - title: 
-   slide-data:  En telecomunicaciones, los medios de transmisión se pueden dividir en dos grandes categorías: guiados y no guiados. A continuacion se explicara mas acerca de cada categoría
+ - title: Categorías de medios de transmisión
+   slide-data: En telecomunicaciones, los medios de transmisión se pueden dividir en dos grandes categorías: guiados y no guiados. A continuación se explicará más acerca de cada categoría.
    background: '#9b59b6'
    
  - title: Slide 4
